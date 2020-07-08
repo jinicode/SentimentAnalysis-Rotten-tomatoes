@@ -8,4 +8,4 @@ Sentiment Analysis on Rotten Tomatoes dataset .
 ## 6->Used LinearSVC (accuracy  0.81) <br />
 ## 7->Used LogisticRegression (accuracy  0.80) <br />
 ## 8->Used RandomForestClassifier (accuracy  0.80) <br />
-## 9-> Used LSTM for preidicting exact rating between 1 to 5 but got 0.43 of accuracy
+## 9-> Used LSTM for predicting exact rating between 1 to 5 but got 0.43 of accuracy
