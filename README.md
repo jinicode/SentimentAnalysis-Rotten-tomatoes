@@ -1,5 +1,6 @@
 # SentimentAnalysis-Rotten-tomatoes
-Sentiment Analysis on Rotten Tomatoes dataset .
+Sentiment Analysis on Rotten Tomatoes dataset of 150,000 reviews .<br />
+### Refer FinalMovieReview notebook
 ## 1->Tokenized the reviews <br />
 ## 2->Removed punctuations stopwords and duplicate reviews <br />
 ## 3->Used CountVectorizer and Tf-Idf transformation to convert reviews to word-vectors <br />
